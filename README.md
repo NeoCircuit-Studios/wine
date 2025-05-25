@@ -8,6 +8,7 @@ how to use:
 2: place in root dir of Farming Simulator 25
 
 3: run : "
+
 sudo apt install dos2unix -y
 
 dos2unix Build.sh
