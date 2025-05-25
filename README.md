@@ -1,4 +1,4 @@
-# wine
+# wine install script for  Farming Simulator 25 dedicated on Ubuntu linux
 A nice script to install wine for Farming Simulator 25 dedicated on Ubuntu linux
 
 how to use:
