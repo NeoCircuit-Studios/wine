@@ -1,5 +1,5 @@
 # Wine Install Script (does NOT work in WSL)
-A nice script to install wine for Farming Simulator 25 dedicated on Ubuntu linux or just install wine :)
+A nice script to install wine for Farming Simulator 25 dedicated Server on Ubuntu linux or just install wine :)
 
 how to use:
 
