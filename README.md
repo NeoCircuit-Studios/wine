@@ -9,6 +9,8 @@ how to use:
 
 3: run : "
 
+sudo apt update -y
+
 sudo apt install dos2unix -y
 
 dos2unix NS-Build.sh
